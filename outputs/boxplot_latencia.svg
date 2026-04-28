@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260">
+<rect x="0" y="0" width="900" height="260" fill="white"/>
+<line x1="60" y1="180.0" x2="840" y2="180.0" stroke="black"/>
+<line x1="60.00" y1="130.0" x2="98.13" y2="130.0" stroke="black"/>
+<line x1="349.05" y1="130.0" x2="725.01" y2="130.0" stroke="black"/>
+<line x1="60.00" y1="110.0" x2="60.00" y2="150.0" stroke="black"/>
+<line x1="725.01" y1="110.0" x2="725.01" y2="150.0" stroke="black"/>
+<rect x="98.13" y="105.0" width="250.91" height="50" fill="#a0cbe8" stroke="black"/>
+<line x1="124.19" y1="105.0" x2="124.19" y2="155.0" stroke="black"/>
+<circle cx="727.02" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="733.88" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="736.38" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="743.32" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="762.68" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="770.73" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="786.47" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="789.84" cy="130.0" r="2" fill="#e15759"/>
+<circle cx="840.00" cy="130.0" r="2" fill="#e15759"/>
+<text x="450.0" y="20" text-anchor="middle" font-size="16">Boxplot de Latência (ms)</text>
+<text x="60" y="200.0" font-size="11">2.0</text>
+<text x="810" y="200.0" font-size="11">161.6</text>
+</svg>
